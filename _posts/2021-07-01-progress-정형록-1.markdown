@@ -8,20 +8,8 @@ comments: true
 header-img: 
 ---
 
-## 개요
-> 글 예시
-오호랑
-- 목차
-	- 목차 작성 1
-	- 목차 작성 2 
+## 목표
+- MLops에 관한 전반적 이해
+- Face detection 및 recognition 관련 모델 조사
+- NLP 관련 모델 조사 
   
-
-## 본문 1
----
-본문내용
-
-
-
-## 본문 2
----
-본문내용
