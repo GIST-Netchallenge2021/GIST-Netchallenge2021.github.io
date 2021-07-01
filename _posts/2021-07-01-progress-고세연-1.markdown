@@ -34,5 +34,4 @@ header-img:
 
 gradle로 build를 하려고 git bash 창에서 ./gradlew build 를 입력하니 위와 같은 오류를 겪었다.
 예전에 깔려져 있던 java 8 버전과 gradle이 충돌을 일으킨 모양이다. java 8 (jdk 1.8) 폴더를 찾아 삭제하고 시스템 환경변수에도 남아있던 jdk 1.8 환경변수를 삭제해주니 해결되었다. 
-## 요약
-> 요약 내용
+
