@@ -23,7 +23,7 @@ header-img:
 이를 위해 진영이형이 소개해준 코어 자바스크립트 책을 선정하였다.
 
 노트 필기 내용은 다음과 같다.
-![0701_CoreJS_Note](../assets/img/progress/김건호/0701_CoreJS_Note.jpg)
+![0701_CoreJS_Note](./../assets/img/progress/김건호/0701_CoreJS_Note.jpg)
 
 # Findings
 ## 01. 데이터 타입의 종류
