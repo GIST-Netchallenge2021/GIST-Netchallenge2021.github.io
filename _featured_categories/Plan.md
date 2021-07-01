@@ -6,5 +6,5 @@ menu: true
 submenu: false
 order: 2
 description: >
-  계획을 올리시면 됩니다.
+  우리 팀의 전반적인 계획을 올리는 곳입니다.
 ---
