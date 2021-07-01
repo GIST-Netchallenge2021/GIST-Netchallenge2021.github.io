@@ -21,6 +21,7 @@ header-img:
 
 ## 사용자가 url로 접근할 때 사용자에게 화면이 뿌려지는 과정
 ---
+![진행 과정](https://gist-netchallenge2021.github.io/assets/img/progress/seyeon/1.png)
 1. 사용자의 웹 브라우저가 tomcat 서버에 해당 url을 보낸다. 
 2. 스프링 컨테이너 안에 있는 Controller 중 해당 url에 매핑되는 Controller가 이를 받는다.(GetMapping())
 3. 이 때, Controller는 Model에 Attribute를 추가할 수 있다. (model.addAttribute())
