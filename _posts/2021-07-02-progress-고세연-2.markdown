@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "210702 Spring 공부 (고세연)"
+subtitle:   "210702"
+categories: progress
+tags: 고세연
+comments: true
+header-img: 
+---
+## 오늘 목표
+	- [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술] 강의 완강하기
