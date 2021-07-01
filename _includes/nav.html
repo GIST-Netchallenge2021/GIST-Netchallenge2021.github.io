@@ -6,8 +6,8 @@
     {% assign pages = pages | push: document %}
   {% endfor %}
 
-  {% assign subpages = pages | where: "menu", false | sort: "newer" %}
-  {% assign pages = pages | where: "menu", true | sort: "newer" %}
+  {% assign subpages = pages | where: "menu", false | sort: "order" %}
+  {% assign pages = pages | where: "menu", true | sort: "order" %}
   {% assign count = 0%}
   {% for node in pages %}
   {% assign count = count | plus: 1 %}
