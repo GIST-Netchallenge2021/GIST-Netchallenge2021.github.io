@@ -8,19 +8,25 @@ comments: true
 header-img: 
 ---
 
-- 오늘 목표
+## 오늘 목표
 	- [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술] 강의 듣기
   
 
-## 오늘 배운 내용 1
+##용어 정리
 ---
-본문내용
+**Gradle** : 필요한 라이브러리(의존관계가 있는 라이브러리 등)들을 땡겨오고, 버전 설정 및 빌드 라이프 사이클까지 관리해주는 툴. 
+**JUnit** : test 프레임워크
 
 
 
-## 오늘배운 내용 2
+## 사용자가 url로 접근할 때 사용자에게 화면이 뿌려지는 과정
 ---
-본문내용
+1. 사용자의 웹 브라우저가 tomcat 서버에 해당 url을 보낸다. 
+2. 스프링 컨테이너 안에 있는 Controller 중 해당 url에 매핑되는 Controller가 이를 받는다.(GetMapping())
+3. 이 때, Controller는 Model에 Attribute를 추가할 수 있다. (model.addAttribute())
+4. 추가 작업이 끝났다면, Controller는 사용자에게 뿌려줄 화면 정보가 담긴 template의 이름을 return한다.
+5. 이 return 값을 viewResolver가 받아 해당하는 이름의 template을 찾아서 템플릿 엔진을 통해 변환 처리 후, 최종적으로 사용자에게 뿌려준다.
+
 
 ## 요약
 > 요약 내용
