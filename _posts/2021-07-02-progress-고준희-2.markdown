@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "210702 javascript 공부 (고준희)"
+subtitle:   "210702"
+categories: progress
+tags: 고준희
+comments: true
+header-img:
+---
+
+2021-07-02
+==============
+생활코딩 javascript 강의 전체, 서점에서 코어 자바스크립트 책을 구해 공부하도록 하겠습니다.
