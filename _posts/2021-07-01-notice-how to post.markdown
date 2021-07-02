@@ -24,13 +24,14 @@ jekyll 등 기타 다른 것들을 깔 필요가 없습니다. <br>
 **category**는 **notice,plan,project,progress** 이렇게 4가지가 있고, <br>
 **tag**는 서브메뉴를 위한 것이며, 현재는 **project,progress** category에만 있습니다. <br>
 **project** 의 경우, **ai, backend, frontend** 으로 총 3가지 tag를 가집니다.<br>
-**progress** 의 경우, **고세연,고준희,김건호,김진영,정형록,정효인** 으로 총 6가지 tag를 가집니다.<br>
+~~**progress** 의 경우, **고세연,고준희,김건호,김진영,정형록,정효인** 으로 총 6가지 tag를 가집니다.<br>
 예를 들어, 만약 **progress** 카테고리에 있는 **고세연** 항목에 글을 작성하고 싶다고 한다면, <br>
 아래 그림과 같이 **categories**를 **progress**로, **tags**를 **고세연**으로 설정합니다.<br>
-![표지](https://gist-netchallenge2021.github.io/assets/img/notice/categories-tags.png)
+![표지](https://gist-netchallenge2021.github.io/assets/img/notice/categories-tags.png)  
 이 때, **subtitle**를 매 글마다 다르게 설정하여, 같은 **category**, 같은 **tag**를 가진 항목의 글들을 구별해줍니다. <br>
-저는 날짜를 이용해 구별지었습니다.
-
+저는 날짜를 이용해 구별지었습니다.~~  
+하나의 **TIL** post에 다같이 쓰는 방식으로 변경하였습니다.   
+**TIL**에 글을 올릴 때는 **subtitle**,**tag**는 비워두고 **categories**만 til로 설정하면 됩니다. 
 ### 이미지를 저장할 위치
 assets 폴더 안에 있는 img 폴더 안에 각 category 별로 저장하시면 나중에 관리할 때 좋을 것 같습니다.
 
