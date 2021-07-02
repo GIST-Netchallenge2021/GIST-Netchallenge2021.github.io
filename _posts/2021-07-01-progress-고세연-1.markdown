@@ -27,7 +27,7 @@ header-img:
 2. 스프링 컨테이너 안에 있는 Controller 중 해당 url에 매핑되는 Controller가 이를 받는다.(GetMapping())
 3. 이 때, Controller는 Model에 Attribute를 추가할 수 있다. (model.addAttribute())
 4. 추가 작업이 끝났다면, Controller는 문자열(사용자에게 뿌려줄 화면 정보가 담긴 template의 이름)을 return한다.
-5. 이 return 값을 viewResolver가 받아 해당하는 이름의 template을 찾아서 템플릿 엔진을 통해 변환 처리 후, 최종적으로 사용자에게 뿌려준다.
+5. 이 return 값을 viewResolver가 받아 해당하는 이름의 template을 찾아 템플릿 엔진을 통해 model과 함께 변환 처리 후, 최종적으로 사용자에게 뿌려준다.
 
 ### today's trouble shooting
 >Execution failed for task ':compileJava'.
