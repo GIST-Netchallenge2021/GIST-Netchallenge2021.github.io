@@ -21,7 +21,7 @@ header-img:
 
 ## 사용자가 url로 접근할 때 사용자에게 화면이 뿌려지는 과정
 ---
-![진행 과정](https://gist-netchallenge2021.github.io/assets/img/progress/seyeon/1.png)
+![진행 과정](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/1.png)
 [출처] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 (김영한)
 1. 사용자의 웹 브라우저가 tomcat 서버에 해당 url을 보낸다. 
 2. 스프링 컨테이너 안에 있는 Controller 중 해당 url에 매핑되는 Controller가 이를 받는다.(GetMapping())
@@ -64,7 +64,7 @@ Rest api가 무엇인지 공부.
 이를 위해 진영이형이 소개해준 코어 자바스크립트 책을 선정하였다.
 
 노트 필기 내용은 다음과 같다.
-![0701_CoreJS_Note](./../assets/img/progress/김건호/0701_CoreJS_Note.jpg)
+![0701_CoreJS_Note](https://gist-netchallenge2021.github.io/assets/img/til/김건호/0701_CoreJS_Note.jpg)
 
 # Findings
 ## 01. 데이터 타입의 종류
