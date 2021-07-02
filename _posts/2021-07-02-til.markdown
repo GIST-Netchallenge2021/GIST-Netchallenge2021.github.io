@@ -28,6 +28,8 @@ public String helloMvc(@RequestParam("name") String n, Model model){
 model.addAttribute("name", n);  
 return "hello-template";  
 }
+
+
 ### API 방식으로 데이터를 전달
 ![API 전달 방식](https://gist-netchallenge2021.github.io/assets/img/progress/seyeon/2.png)
 1. @GetMapping 다음에 @ResponseBody를 쓰면 컨트롤러가 view가 아닌 http body에 데이터를 전달한다.
