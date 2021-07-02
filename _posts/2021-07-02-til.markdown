@@ -105,3 +105,13 @@ array의 element를 인자로 주어진 함수에 집어넣었을 때, true를 r
 # 형록
 
 # 효인
+### Recap
+unity toy project webgl build 완료
+npm:react-webgl-unity library 이용하여 hosting 가능
+하지만 build 과정에서 error 발생시 debug가 어려움
+
+따라서 threejs로 선회 계획 -> unity는 최종수단
+javascript : 기본문법 + querySelector,addEventListener
+그 후 github, email, application, desktop 정리
+
+

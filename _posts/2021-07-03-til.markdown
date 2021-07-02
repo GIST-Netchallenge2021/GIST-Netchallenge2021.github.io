@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "21.07.03(Sat)"
+subtitle:
+categories: til
+tags: 
+header-img: 
+---
+#효인
+###목표
+- threejs
+   - https://threejsfundamentals.org/threejs/lessons/kr/threejs-game.html 훑어보기, 학습범위 설정
+   - 타 이용자와 interaction 예제 찾아보기
+- reactjs
+    - 기본 문법 학습(공식 문서)
+- javascript
+    - CSS in javascript, login process
