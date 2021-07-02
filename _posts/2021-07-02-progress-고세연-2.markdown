@@ -36,5 +36,5 @@ public String helloMvc(@RequestParam("name") String n, Model model){
 > `<p th:text="'hello ' + ${name}">hello! empty</p>`
 
 위 문장을 서버를 거쳐 실행한 경우 **hello + (넣은 name값)** 이 출력이 되고,
-서버 없이 실행하는 경우 **hello! empty**가 출력이 된다.
+서버 없이 실행하는 경우 **hello! empty**가 출력이 된다. 
 
