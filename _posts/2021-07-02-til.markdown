@@ -48,6 +48,53 @@ return "hello-template";
 생활코딩 javascript 강의 전체, 서점에서 코어 자바스크립트 책을 구해 공부하도록 하겠습니다.
 
 # 건호
+## 목표
+- 노마드 코더: 초보자를 위한 바닐라 자바스크립트 완강
+- 리액트: Component Lifecycle 정리
+
+## Facts
+노마드 코더 유튜브 자바스크립트 완강하였다.  
+컴포넌트 라이프사이클에 대해 배웠다.
+
+## Findings
+(노션 링크)[https://www.notion.so/3-980b21923b1640da82de1d2620134bcb]
+
+자바스크립트에서 자주 그리고 유용히 쓰이는 몇가지 메서드들을 알 수 있었다.  
+그중에서도 Local Storage에 JavaScript의 데이터를 그대로 저장할 수 없다는 문제를 해결하기 위한 JSON의 메서드들을 몇가지 배웠다.  
+
+### What?!: JSON
+데이터를 전달할 때, JavaScript가 그것을 다룰 수 있도록 object로 바꿔주는 기능 등을 담당한다.
+
+### JSON.stringfy(data)
+: JS data를 string으로 바꿔준다.
+
+### JSON.parse(string)
+: string을 JS data (object)로 바꿔준다.
+
+유용한 메서드
+
+### iterable.forEach( *function(element)* )
+iterable의 elements 각각에 인자로 준 function을 적용시킨다.  
+
+### array.filter( *function(element)* )
+array의 element를 인자로 주어진 함수에 집어넣었을 때, true를 return하는 element로만 이뤄진 array를 반환해준다.  
+
+
+## Feelings
+
+
+## Future Actions Plans
+- 코어 자바스크립트 1주 안에 끝내기 (노트 정리 X) ~0708(목)
+- 발표 ppt 수정 및 대본 짜기 ~0709(금)
+- 프론트엔드 개발에 대한 전반적인 이해 ~0705(월)
+
+- 리액트 강의 수강 (코드 일일이 적기 X)
+- 애자일 협업 방식 이해
+
+## Feedback
+책이든 강의든 한번 빠르게 훑고 필요할 때 찾기  
+계속 찾게되는 개념일 떄, 블로그 정리하기  
+
 
 # 진영
 
