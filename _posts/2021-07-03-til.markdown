@@ -16,7 +16,8 @@ header-img:
 - javascript
     - CSS in javascript, login process
   
-#준희
+준희
+=================
 ### 목표
 - React 생활코딩 전체
   - https://www.inflearn.com/course/(9강~40강)
