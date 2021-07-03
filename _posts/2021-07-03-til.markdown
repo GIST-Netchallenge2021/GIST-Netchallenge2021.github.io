@@ -6,8 +6,8 @@ categories: til
 tags: 
 header-img: 
 ---
-#효인
-###목표
+# 효인
+### 목표
 - threejs
    - https://threejsfundamentals.org/threejs/lessons/kr/threejs-game.html 훑어보기, 학습범위 설정
    - 타 이용자와 interaction 예제 찾아보기
@@ -22,3 +22,8 @@ header-img:
 - React 생활코딩 전체
   - https://www.inflearn.com/course/(9강~40강)
   - 코어 자바스크립트 ~93페이지
+  
+# 세연
+
+### 목표
+  - [스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술] 강의 완강하기

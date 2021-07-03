@@ -32,7 +32,8 @@ return "hello-template";
 
 
 ### API 방식으로 데이터를 전달
-![API 전달 방식](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/2.png)
+![API 전달 방식](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/2.png)  
+[출처] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 (김영한)
 1. @GetMapping 다음에 @ResponseBody를 쓰면 컨트롤러가 view가 아닌 http body에 데이터를 전달한다.
 2. 컨트롤러는 return 값으로 객체를 전달할 수 있는데, 이 때, 스프링은 별다른 것을 하지 않으면 기본적으로 객체를 json형식으로 변환하여 json을 클라이언트에 전달하게 된다. 이 때 객체를 json으로 변환하기 위해 HttpMessageConverter라는 컨버터 등이 동작하게 된다.
 
@@ -41,7 +42,9 @@ return "hello-template";
 
 위 문장을 서버를 거쳐 실행한 경우 **hello + (넣은 name값)** 이 출력이 되고,
 서버 없이 실행하는 경우 **hello! empty**가 출력이 된다.
-![웹 애플리케이션 계층 구조](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/3.png)
+### 계층 구조 
+![웹 애플리케이션 계층 구조](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/3.png)  
+[출처] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술 (김영한)
 
 ---
 # 준희
