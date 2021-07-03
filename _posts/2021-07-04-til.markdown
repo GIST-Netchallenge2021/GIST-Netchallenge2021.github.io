@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "21.07.03(Sat)"
+subtitle:
+categories: til
+tags:
+comments: true
+header-img: 
+---
+# 효인
+### 당일목표 및 달성여부
+- javascript login (toy project)
+- 공식문서에 예제로 있는 간단한 react game 만들면서 문법 복습
+- threejs-react 예제 1 구현
+- 일주일 간 풀었던 알고리즘 문제 선별하여 포스트 올리기
