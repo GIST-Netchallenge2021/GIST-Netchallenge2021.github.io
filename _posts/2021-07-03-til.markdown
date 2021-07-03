@@ -15,3 +15,9 @@ header-img:
     - 기본 문법 학습(공식 문서)
 - javascript
     - CSS in javascript, login process
+  
+#준희
+### 목표
+- React 생활코딩 전체
+  - https://www.inflearn.com/course/(9강~40강)
+  - 코어 자바스크립트 ~93페이지
