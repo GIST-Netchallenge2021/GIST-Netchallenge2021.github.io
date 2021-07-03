@@ -41,7 +41,7 @@ return "hello-template";
 
 위 문장을 서버를 거쳐 실행한 경우 **hello + (넣은 name값)** 이 출력이 되고,
 서버 없이 실행하는 경우 **hello! empty**가 출력이 된다.
-![웹 애플리케이션 계층 구조](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/2.png)
+![웹 애플리케이션 계층 구조](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/3.png)
 
 ---
 # 준희
