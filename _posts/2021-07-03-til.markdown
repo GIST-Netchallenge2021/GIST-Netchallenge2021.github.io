@@ -36,13 +36,13 @@ npm run build : 빌드하기
 npx serve -s build : 배포
 
 
-![jsx라는 언어를 쓴다 → JS로 바뀌어서 빌드된다.](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/1.png)
+![jsx라는 언어를 쓴다. JS로 바뀌어서 빌드된다.](https://gist-netchallenge2021.github.io/assets/img/til/junhee/1.png)
 
 
-![component 생성을 위한 import 과정](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/2.png)
+![component 생성을 위한 import 과정](https://gist-netchallenge2021.github.io/assets/img/til/junhee/2.png)
 
 
-![component 기본적인 문법](https://gist-netchallenge2021.github.io/assets/img/til/seyeon/3.png)
+![component 기본적인 문법](https://gist-netchallenge2021.github.io/assets/img/til/junhee/3.png)
 
 
 생성한 컴포넌트를 사용한 모습 (Subject Tag는 사용자가 생성한 컴포넌트이다.)
