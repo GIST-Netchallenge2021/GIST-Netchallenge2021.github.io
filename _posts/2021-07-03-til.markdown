@@ -36,49 +36,46 @@ npm run build : 빌드하기
 npx serve -s build : 배포
 
 
-![jsx라는 언어를 쓴다. JS로 바뀌어서 빌드된다.](https://gist-netchallenge2021.github.io/assets/img/til/junhee/1.png)
+![jsx라는 언어를 쓴다. JS로 바뀌어서 빌드된다.](https://gist-netchallenge2021.github.io/assets/img/til/junhee/1.png )  
+jsx라는 언어를 쓴다. JS로 바뀌어서 빌드된다.
 
+![component 생성을 위한 import 과정](https://gist-netchallenge2021.github.io/assets/img/til/junhee/2.png )  
+component 생성을 위한 import 과정
 
-![component 생성을 위한 import 과정](https://gist-netchallenge2021.github.io/assets/img/til/junhee/2.png)
+![component 기본적인 문법](https://gist-netchallenge2021.github.io/assets/img/til/junhee/3.png)  
+component 기본적인 문법
 
-
-![component 기본적인 문법](https://gist-netchallenge2021.github.io/assets/img/til/junhee/3.png)
-
-
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/4.png)  
 생성한 컴포넌트를 사용한 모습 (Subject Tag는 사용자가 생성한 컴포넌트이다.)
 
-
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/5.png)  
 컴포넌트의 props를 이용해 내용을 자유자재로 바꾸는 모습
 
-
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/6.png)  
 위의 props를 받아와 내용을 채운다.
 
-
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/7.png)  
 components 디렉토리에 컴포넌트들을 따로 정리하고 이를 App.js로 불러오는 부분.
 
-
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/8.png)  
 component들을 클래스처럼 따로따로 component에 보관한다. export default 잊지말자.
 
-
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/9.png)  
 App 컴포넌트에 state를 따로 만들어놓고 props로 불러오는 모습
 
-![React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/state2.png](React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/state2.png)
-
-![React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/state2-2.png](React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/state2-2.png)
-
-![React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/event.png](React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/event.png)
-
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/10.png)  
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/11.png)
 state 변경할 때는 꼭 setState 함수를 사용하자.
 
-![React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/bind.png](React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/bind.png)
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/12.png)
 
 함수에서 this는 아무의미를 지니지 않는다. 따라서 함수 끝에 .bind(객체)를 해줌으로서 this가 객체를 뜻하게 만들어준다.
 
-![React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/key.png](React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/key.png)
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/13.png)
 
 key 값을 할당해줘야 error가 안난다.
 
-![React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/componentEvent.png](React%20%E1%84%87%E1%85%A2%E1%84%8B%E1%85%AE%E1%84%80%E1%85%B5%20a205278553144a8a87e49ee13e2868dd/componentEvent.png)
+![](https://gist-netchallenge2021.github.io/assets/img/til/junhee/14.png)
   
 # 세연
 
