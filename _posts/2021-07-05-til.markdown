@@ -9,7 +9,7 @@ header-img:
 ---
 # 효인
 ### 금일목표 및 달성현황
-**[lib][https://github.com/pmndrs/react-three-fiber]에 있는 fundamentals에 따라 앞으로 학습로드를 잡을 것입니다**
+**[lib](https://github.com/pmndrs/react-three-fiber)에 있는 fundamentals에 따라 앞으로 학습로드를 잡을 것입니다**
 - threejs 공식문서 완독
 - react hooks
 - 1 hour minecraft 영상 보기
