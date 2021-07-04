@@ -9,10 +9,21 @@ header-img:
 ---
 # 효인
 ### 당일목표 및 달성여부
-- javascript login (toy project)
-- 공식문서에 예제로 있는 간단한 react game 만들면서 문법 복습
-- threejs-react 예제 1 구현
-- 일주일 간 풀었던 알고리즘 문제 선별하여 포스트 올리기
+- javascript ~~login (toy project)~~ 화살표 함수 O
+- 공식문서에 예제로 있는 간단한 react game 만들면서 문법 복습 O
+- ~~threejs-react 예제 1 구현~~ 알고보니 threejs react 예제는 step-by-step 이 아닌 진짜 예제였음<br>
+threejs 공식문서 정독중 O
+- 일주일 간 풀었던 알고리즘 문제 선별하여 포스트 올리기 O
+
+### 배운점
+- react 공식문서에 있는 게임을 따라하며 component, props, state 등 react에 대하여 조금은 더 잘 이해할 수 있게 됐다.
+기억에 남는 것은 구조에 따라 props와 state를 바꿔줬던 것이 기억에 남는다.
+최상위 객체에는 state 하위 객체에는 props를 통하여 value를 주고받는 구조다.<br>
+__이해 안됨__<br>
+![q][https://github.com/GIST-Netchallenge2021/GIST-Netchallenge2021.github.io/tree/master/_posts/img/210704_react_idk.jpg]<br>
+혹시 왜 이러는 지 아시는 분은 comment 달아주시면 감사하겠습니다. (__)
+- react 공식 문서를 다 보고 threejs에 적용할 수 있는 것을 찾다 <u>react-three-fiber</u>라는 것을 찾았다. jsx의 구조를 가진 threejs라고 보면 될 것 같다. 
+
 
 # 세연
 
