@@ -3,7 +3,7 @@
 (function(w, d) {
   var disqus_config = function () {
     this.page.url = "{{site.url}}" + "{{page.url}}";
-    this.page.identifier = "{{page.id}}";
+    this.page.identifier = "{{ page.url }}";
     this.page.title = "{{ page.title }}";
   };
   
