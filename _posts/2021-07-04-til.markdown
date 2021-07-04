@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title:  "21.07.04(Sun)"
 subtitle:
 categories: til
