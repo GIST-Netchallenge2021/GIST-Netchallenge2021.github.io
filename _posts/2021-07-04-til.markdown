@@ -20,7 +20,7 @@ threejs 공식문서 정독중 O
 기억에 남는 것은 구조에 따라 props와 state를 바꿔줬던 것이 기억에 남는다.
 최상위 객체에는 state 하위 객체에는 props를 통하여 value를 주고받는 구조다.<br>
 __이해 안됨__<br>
-![q][https://github.com/GIST-Netchallenge2021/GIST-Netchallenge2021.github.io/tree/master/_posts/img/210704_react_idk.jpg]<br>
+![q](https://github.com/GIST-Netchallenge2021/GIST-Netchallenge2021.github.io/tree/master/_posts/img/210704_react_idk.jpg"모르겠다")<br>
 혹시 왜 이러는 지 아시는 분은 comment 달아주시면 감사하겠습니다. (__)
 - react 공식 문서를 다 보고 threejs에 적용할 수 있는 것을 찾다 <u>react-three-fiber</u>라는 것을 찾았다. jsx의 구조를 가진 threejs라고 보면 될 것 같다. 
 
