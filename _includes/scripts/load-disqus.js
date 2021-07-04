@@ -2,9 +2,8 @@
 // uglifyjs load-disqus.js -c -m > load-disqus.min.js
 (function(w, d) {
   var disqus_config = function () {
-    this.page.url = "{{site.url}}" + "{{page.url}}";
+    this.page.url = "https://gist-netchallenge2021.github.io" + "{{ page.url }}";
     this.page.identifier = "{{ page.url }}";
-    this.page.title = "{{ page.title }}";
   };
   
   
