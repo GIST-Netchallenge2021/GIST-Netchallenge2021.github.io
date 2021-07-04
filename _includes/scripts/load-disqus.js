@@ -2,10 +2,12 @@
 // uglifyjs load-disqus.js -c -m > load-disqus.min.js
 (function(w, d) {
   var disqus_config = function () {
-    this.page.title = '{{ page.title }}';
-    this.page.identifier = '{{ page.id }}';
-    this.page.url = '{{ page.url | absolute_url }}';
+    this.page.url = "{{site.url}}" + "{{page.url}}";
+    this.page.identifier = "{{page.id}}";
+    this.page.title = "{{ page.title }}";
   };
+  
+  
 
   w._disqusFirst = typeof w._disqusFirst != 'undefined' ? w._disqusFirst : true;
   w._disqusLoading = typeof w._disqusLoading != 'undefined' ? w._disqusLoading : false;
