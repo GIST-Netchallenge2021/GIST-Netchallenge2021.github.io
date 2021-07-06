@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "21.07.06(Tue)"
+subtitle:
+categories: til
+tags:
+comments: true
+header-img:
+---
+# 세연
+### 금일목표 및 달성현황
+- 스프링 핵심 원리 - 기본편 강의 수강 
+  - [**스프링 핵심 원리 이해1 - 예제 만들기**] 까지 수강 후 알게 된 내용 정리하기.
