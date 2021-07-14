@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "21.07.14(Wed)"
+subtitle:
+categories: til
+tags:
+comments: true
+header-img:
+---
+# 세연
+## 금일목표 및 달성현황
+- 파이썬 챌린지 (if&for)
+- eslint-prettier 개발환경 에러 해결, 로그인/아이디비밀번호찾기/회원가입 페이지 component화 시키기
+- Unity asset, pipeline, 정한 후 캐릭터 이동 구현(3d 3인칭, 상하좌우키)
+- 구현 코딩테스트 1문제
+- 밀린 코딩테스트 발표문제 깃헙 블로그에 올리기
+  
+## 알게 된 내용
+
