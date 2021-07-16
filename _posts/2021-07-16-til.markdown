@@ -1,0 +1,20 @@
+---
+layout: post
+title: "21.07.16(Fri)"
+subtitle:
+categories: til
+tags:
+comments: true
+header-img:
+---
+
+# 효인
+
+## 금일목표 및 달성현황
+
+- 파이썬 챌린지 (웹 스크래핑 - 나라)
+- 구현 코딩테스트 1문제
+- 밀린 코딩테스트 발표문제 깃헙 블로그에 올리기
+- ruby on rails 공식문서 3/4
+
+## 알게 된 내용
