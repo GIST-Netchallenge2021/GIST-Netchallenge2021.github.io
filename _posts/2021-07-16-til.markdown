@@ -18,3 +18,20 @@ header-img:
 - ruby on rails 공식문서 3/4
 
 ## 알게 된 내용
+
+---
+
+# 건호
+
+## To Do
+- Unity Teams 협업 방식 이해하기
+- 넷챌린지 중간 평가 전 전체 일정 짜기
+
+## Findings
+Unity Teams의 Pulish와 Sync를 사용하여 멤버들과 협업하는 방법을 배웠다.  
+처음엔 아무리 Pulish하고 Sync를 해도 내가 바꾼 내용이 효인이에게 반영이 안되었다. (역으로도 마찬가지)  
+알고보니 각자 보고있던 Scene파일이 달라서 반영이 안된 것처럼 생각했다.  
+Git으로 치면 Pull, Push하는 법을 배운 셈이니 큰 성과이다.  
+
+
+
