@@ -1,0 +1,23 @@
+---
+layout: post
+title: "21.07.18(Sun)"
+subtitle:
+categories: til
+tags:
+comments: true
+header-img:
+---
+
+# 효인
+
+## 금일목표 및 달성현황
+
+- 청원사이트 회원가입 페이지/ 아이디 및 비밀번호 찾기 페이지 test 후 github 업로드
+- 유니티 캐릭터 애니메이션 적용
+- 구현 코딩테스트 1문제
+- 밀린 코딩테스트 발표문제 깃헙 블로그에 올리기
+- ruby on rails 공식문서 완독
+
+## 알게 된 내용
+
+---
