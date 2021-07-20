@@ -1,0 +1,24 @@
+---
+layout: post
+title: "21.07.20(Tue)"
+subtitle:
+categories: til
+tags:
+comments: true
+header-img:
+---
+
+# 효인
+
+## 금일목표 및 달성현황
+
+- express 서버 만들어보기
+- flask와 api 연동하기
+- 유니티 mirror/ multiplayer networking 강좌 듣기
+- 파이썬 클래스 1 필수예제 다 풀어보기
+- 밀린 코딩테스트 발표문제 깃헙 블로그에 올리기
+- 시스템 프로그래밍 3강의 듣기
+
+## 알게 된 내용
+
+---
