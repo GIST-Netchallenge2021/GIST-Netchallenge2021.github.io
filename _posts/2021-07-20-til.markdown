@@ -12,13 +12,19 @@ header-img:
 
 ## 금일목표 및 달성현황
 
-- express 서버 만들어보기
-- flask와 api 연동하기
-- 유니티 mirror/ multiplayer networking 강좌 듣기
-- 파이썬 클래스 1 필수예제 다 풀어보기
-- 밀린 코딩테스트 발표문제 깃헙 블로그에 올리기
-- 시스템 프로그래밍 3강의 듣기
+- express 서버 만들어보기 O
+- flask와 api 연동하기 -> Python 객체지향 공부로 대체 O
+- 유니티 mirror/ multiplayer networking 강좌 듣기 O
+- 파이썬 클래스 1 필수예제 다 풀어보기 O
+- 밀린 코딩테스트 발표문제 깃헙 블로그에 올리기 O
+- 시스템 프로그래밍 3강의 듣기 O
 
 ## 알게 된 내용
+
+- http protocol (get,post 등) express 통하여 req/res 주고받는 과정
+- python method에는 default로 self가 있다
+- unity는 HLAPI를 제공한다 (GUI형태로)
+- python에서 map의 역할
+- fseek, ftell
 
 ---
