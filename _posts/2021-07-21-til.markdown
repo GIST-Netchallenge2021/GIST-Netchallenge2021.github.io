@@ -12,12 +12,13 @@ header-img:
 
 ## 금일목표 및 달성현황
 
-- middleware에 대해 알아보고 url logger,time logger,security logger,protector middleware 만들어보기
-- flask와 api 연동하여 웹 스크래핑
-- 유니티 multiplayer 공식문서 다읽기
-- 파이썬 클래스 2 다풀기
-- RoR doctrine 읽어보기
+- middleware에 대해 알아보고 url logger,time logger,security logger,protector middleware 만들어보기 O
+- flask와 api 연동하여 웹 스크래핑 X
+- 유니티 multiplayer 공식문서 다읽기 X
+- 파이썬 클래스 2 다풀기 X
+- RoR doctrine 읽어보기 X
 
 ## 알게 된 내용
 
+- flask랑 api 연동하느라 하루를 다 썼는데 해결을 못했다.
 ---
