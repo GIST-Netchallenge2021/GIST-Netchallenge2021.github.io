@@ -1,0 +1,22 @@
+---
+layout: post
+title: "21.07.23(Fri)"
+subtitle:
+categories: til
+tags:
+comments: true
+header-img:
+---
+
+# 효인
+
+## 금일목표 및 달성현황
+
+- 웹 스크래핑 toy project 2/2
+- 유니티 multiplayer 공식문서 다읽기 2/2
+- 파이썬 클래스 2 다풀기 2/2
+- router 생성 후 get route 생성
+
+## 알게 된 내용
+
+---
