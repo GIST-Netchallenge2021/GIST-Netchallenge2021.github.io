@@ -12,11 +12,17 @@ header-img:
 
 ## 금일목표 및 달성현황
 
-- 웹 스크래핑 toy project 2/2
-- 유니티 multiplayer 공식문서 다읽기 2/2
-- 파이썬 클래스 2 다풀기 2/2
-- router 생성 후 get route 생성
+- 웹 스크래핑 toy project 2/2 O
+- 유니티 multiplayer 공식문서 다읽기 2/2 O
+- 파이썬 클래스 2 다풀기 2/2 O
+- router 생성 후 get route 생성 O
 
 ## 알게 된 내용
+
+- 소수 판별 알고리즘 - 에라토네스(?)의 체
+- unity multiplayer game을 만들기 위해서는 세가지 수준의 도구가 제공된다.
+- list를 set으로 바꿀 때 순서가 바뀐다
+- python counter 함수
+- python에서의 자료구조
 
 ---
