@@ -12,11 +12,14 @@ header-img:
 
 ## 금일목표 및 달성현황
 
-- 웹 스크래핑 toy project
-- 유니티 photon pun 2 X KT cloud 를 통한 멀티플레이어 게임 만들기 다 보고 따라해보기
-- 파이썬 클래스 2 틀린거 다시풀기
-- 조코딩 rails CRUD 보고 따라해보기
+- 웹 스크래핑 toy project X
+- 유니티 photon pun 2 X KT cloud 를 통한 멀티플레이어 게임 만들기 다 보고 따라해보기 -> aws ie 방화벽 문제로 보류, koren container 생성되면 해볼 것임
+- 파이썬 클래스 2 틀린거 다시풀기 O
+- 조코딩 rails CRUD 보고 따라해보기 O
 
 ## 알게 된 내용
+
+- rails에서 controller와 view를 연결하는 것을 알게 되었다
+- aws ec2 (elastic cloud computing)
 
 ---

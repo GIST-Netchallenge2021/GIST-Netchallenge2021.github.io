@@ -1,0 +1,23 @@
+---
+layout: post
+title: "21.07.25(Sun)"
+subtitle:
+categories: til
+tags:
+comments: true
+header-img:
+---
+
+# 효인
+
+## 금일목표 및 달성현황
+
+- 웹 스크래핑 toy project
+- 유니티 photon pun 2 koren VM에 설치 후 unity로 연결해보기
+- 파이썬 클래스 4 3문제
+- 조코딩 rails CRUD
+- 기계학습 기본 강의 1시간
+
+## 알게 된 내용
+
+---
