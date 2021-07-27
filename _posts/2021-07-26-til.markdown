@@ -12,12 +12,14 @@ header-img:
 
 ## 금일목표 및 달성현황
 
-- 유니티 photon pun 2 aws 연결 후 멀티플레이어 기능 구현
-- pug 연습
-- solved ac class 3+ 2문제
-- 머신러닝 개념, 용어
-- RoR + LineTalk : 로그인 백엔드 연결
+- 유니티 photon pun 2 aws 연결 후 멀티플레이어 기능 구현 O
+- pug 연습 O
+- solved ac class 3+ 2문제 O
+- 머신러닝 개념, 용어 X
+- RoR + LineTalk : 로그인 백엔드 연결 X
 
 ## 알게 된 내용
+
+- paritals, render
 
 ---
