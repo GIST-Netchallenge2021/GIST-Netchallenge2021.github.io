@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "21.07.27(Tue)"
+title: "21.07.28(Wed)"
 subtitle:
 categories: til
 tags:
@@ -16,6 +16,7 @@ header-img:
 - 머신러닝 개념, 용어
 - RoR + LineTalk : 로그인 백엔드 연결
 - login ui 키보드로 구현 알아보기
+- db 붙여보기
 
 ## 알게 된 내용
 
